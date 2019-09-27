@@ -1,0 +1,69 @@
+1. Introduction
+Là voilà, la fameuse Landing Page ! Le projet de toute une semaine, au cours de laquelle tu auras vu :
+
+Les bases de HTML / CSS.
+La façon de mettre un site en ligne.
+Bootstrap et les frameworks pour concevoir des pages rapidement.
+Avec les notions de design et de marketing que nous t'avons données aujourd'hui, te voici fin prêt à réaliser la page d'accueil de ta startup / association / entreprise. Tu vas devoir lui donner un CTA (call to action) fonctionnel, puis la mettre en ligne. Allons-y !
+
+2. Le projet
+Pour ce projet, nous allons te demander de designer, coder, puis mettre en production une landing page. Voici la marche à suivre détaillée :
+
+Choix de l'organisation que tu veux promouvoir.
+Choix de l'objectif de la page et de son call to action.
+Design de la page.
+Code de la page.
+Mise en production.
+2.1. Choix de l'organisation
+Pour cette page, nous te demandons de choisir une organisation concrète sur laquelle travailler. Cela permettra de mieux te projeter et de proposer un meilleur rendu. Voici quelques possibilités :
+
+Ton association étudiante.
+Une association que tu connais et apprécies.
+Ta future startup qui va tout déchirer.
+Ton entreprise.
+L'association / entreprise d'un(e) de tes proches.
+Le projet d'un co-moussaillon avec qui tu vas co-travailler pour ce projet.
+L'entreprise à qui tu as vendu cette page (cela peut se négocier entre 500€ et 2500€ en fonction de tes capacités en négociation et de ta volonté à faire raquer l'entreprise)
+Une fois l'organisation choisie, passons à la reflexion sur les fonctionnalités de ta page.
+
+2.2. Objectif : quel CTA
+Souviens-toi : "Avant de foncer tête baissée dans le code, prends le temps de te poser et de réfléchir à ce que ta page doit faire". En effet, tu ne vas pas coder la page d'un restaurant de la même façon que celle d'une startup qui lance son produit dans 3 mois. Pour la première, tu ferais un site vitrine affichant un menu, pour l'autre tu proposerais une inscription à une mailing list pour être tenu au courant du lancement.
+
+Voici donc une liste non exhaustive de ce que tu peux faire avec une page simple :
+
+Un bouton pour appeler un numéro défini.
+Ce peut être utile pour faire une demande de réservation pour un restaurant, par exemple.
+Un bouton "Nous suivre sur les réseaux sociaux" qui redirige vers une page Facebook (notamment).
+Très pratique pour une organisation qui utilise les réseaux sociaux comme principal canal de communication (une association).
+Un formulaire pour s'inscrire à une mailing list, comme celle de Mailchimp.
+Très pratique pour tenir les personnes au courant du projet ou envoyer des offres promotionnelles.
+Plein d'autres CTAs sont possibles, tout dépend ce qui le plus pertinent pour ton organisation.
+2.3. Design de la page
+Avant de te mettre à coder, il faut que tu définisses à quoi va ressembler ta page et quels éléments y seront. Il y a un truc qu'on aime bien à THP : éviter aux moussaillons de leur faire réinventer la roue. Pour les pages, inspire-toi de tous les templates et thèmes qui existent pour voir :
+
+Quelles sont les parties importantes à mettre dans une page.
+Quelles parties seront les meilleures pour ta page.
+Ce travail d'inspiration est très important dans l'univers du design produit : au lieu de vouloir se prendre la tête à tout refaire, pourquoi ne pas s'inspirer d'entreprises ayant investi des millions d'euros dans ce domaine et qui savent ce qui marche ? Va donc parcourir le net pour trouver ton bonheur et conçois ta page en fonction.
+
+Enfin, avant de coder, tu vas être confronté à deux choix :
+
+Option des p'tits malins : tu prends un thème déjà existant, tu enlèves / modifies les parties et zoupla, ta page est prête !
+Avantages : ta page est prête rapidement, et elle sera belle.
+Défauts : manque d'originalité, pas entièrement customisable./li>
+Option customisation : tu utilises Bootstrap de base (ou une surcouche à la Bootswatch) et tu effectues l'intégralité de la page.
+Avantages : ce sera TA page que TU auras codée du début à la fin, et tu en seras fier.
+Défauts : à moins d'être bon en design, ta page sera moyenne, voire moche, et ne sera donc pas très attrayante. Réinventer la roue, c'est long, et souvent contre-productif.
+Le choix t'appartient ☺
+
+2.4. Code de la page
+Les préparatifs sont finis, passons au code ! Prépare un repository GitHub, un autre sur ton ordinateur, et c'est parti !
+
+2.5. Mise en production
+Une fois ta page codée et ton visage illuminé d'un fier sourire, il est temps de faire profiter la terre entière de ton travail (quel intérêt, sinon ?). Plusieurs solutions s'offrent à toi :
+
+Un nom de domaine personnalisé, généralement en nomdetonorganisation.com ou nomdetonorganisation.fr ou autre (.co, .org, etc) (indispensable si tu veux que les recherches Google de Nom de ton organisation renvoient vers ton site).
+Une option comme Surge ou GitHub Pages pour juste le mettre en ligne.
+Idem, nous te laissons choisir ce qui t'arrange le mieux, puis mettre le site en ligne.
+
+3. Rendu attendu
+Une jolie page de présentation de ton organisation, avec un objectif, et en ligne !
