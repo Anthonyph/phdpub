@@ -31,15 +31,15 @@ Souviens-toi : "Avant de foncer tête baissée dans le code, prends le temps de 
 
 Voici donc une liste non exhaustive de ce que tu peux faire avec une page simple :
 
-Un bouton pour appeler un numéro défini.
-Ce peut être utile pour faire une demande de réservation pour un restaurant, par exemple.
-Un bouton "Nous suivre sur les réseaux sociaux" qui redirige vers une page Facebook (notamment).
-Très pratique pour une organisation qui utilise les réseaux sociaux comme principal canal de communication (une association).
-Un formulaire pour s'inscrire à une mailing list, comme celle de Mailchimp.
-Très pratique pour tenir les personnes au courant du projet ou envoyer des offres promotionnelles.
-Plein d'autres CTAs sont possibles, tout dépend ce qui le plus pertinent pour ton organisation.
-2.3. Design de la page
-Avant de te mettre à coder, il faut que tu définisses à quoi va ressembler ta page et quels éléments y seront. Il y a un truc qu'on aime bien à THP : éviter aux moussaillons de leur faire réinventer la roue. Pour les pages, inspire-toi de tous les templates et thèmes qui existent pour voir :
+	Un bouton pour appeler un numéro défini.
+	Ce peut être utile pour faire une demande de réservation pour un restaurant, par exemple.
+	Un bouton "Nous suivre sur les réseaux sociaux" qui redirige vers une page Facebook (notamment).
+	Très pratique pour une organisation qui utilise les réseaux sociaux comme principal canal de communication (une association).
+	Un formulaire pour s'inscrire à une mailing list, comme celle de Mailchimp.
+	Très pratique pour tenir les personnes au courant du projet ou envoyer des offres promotionnelles.
+	Plein d'autres CTAs sont possibles, tout dépend ce qui le plus pertinent pour ton organisation.
+	2.3. Design de la page
+	Avant de te mettre à coder, il faut que tu définisses à quoi va ressembler ta page et quels éléments y seront. Il y a un truc qu'on aime bien à THP : éviter aux moussaillons de leur faire réinventer la roue. Pour les pages, inspire-toi de tous les templates et thèmes qui existent pour voir :
 
 Quelles sont les parties importantes à mettre dans une page.
 Quelles parties seront les meilleures pour ta page.
